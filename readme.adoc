@@ -1,5 +1,7 @@
 
-= idea-note
+= idea
+
+== 数据目录相对路径
 
 JAVA_TOOL_OPTIONS
 [source,shell script]
